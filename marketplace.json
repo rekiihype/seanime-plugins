@@ -19,7 +19,7 @@
     "type": "manga-provider",
     "language": "typescript",
     "lang": "en",
-    "icon": "https://manhwa18.net/icons/icon-180.png",
+    "icon": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/icon.png",
     "manifestURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/manhwa18.json",
     "payloadURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/provider.ts",
     "website": "https://manhwa18.net"
@@ -84,7 +84,7 @@
   {
     "id": "AniList-Discussions-Integrated-Player",
     "name": "AniList Discussions (Integrated Player)",
-    "description": "Read AniList discussions inside Seanime\u2019s built-in video player.",
+    "description": "Read AniList discussions inside Seanime’s built-in video player.",
     "author": "Bas1874",
     "manifestURI": "https://raw.githubusercontent.com/Bas1874/anilist-discussion/refs/heads/main/src/Integrated%20Player/manifest.json",
     "icon": "https://raw.githubusercontent.com/Bas1874/anilist-discussion/refs/heads/main/src/Icons/In-Player%20Discussions4.png",
@@ -166,7 +166,7 @@
   {
     "id": "anime-notes",
     "name": "Anime Notes",
-    "description": "\u270f\ufe0f Add personal notes to anime.",
+    "description": "✏️ Add personal notes to anime.",
     "author": "Faddix, Bas1874",
     "manifestURI": "https://raw.githubusercontent.com/faddix/anime-notes/main/anime-notes.json",
     "icon": "https://raw.githubusercontent.com/faddix/anime-notes/main/src/notepad.png",
@@ -178,7 +178,7 @@
   {
     "id": "animethemes",
     "name": "AnimeThemes Player",
-    "description": "Displays an anime\u2019s openings and endings (using animethemes.moe) directly on its page.",
+    "description": "Displays an anime’s openings and endings (using animethemes.moe) directly on its page.",
     "author": "jabifx",
     "manifestURI": "https://raw.githubusercontent.com/dot-fx/seanime-extensions/master/src/AnimeThemes/manifest.json",
     "icon": "https://raw.githubusercontent.com/dot-fx/seanime-extensions/master/src/AnimeThemes/icon.ico",
@@ -644,7 +644,7 @@
   {
     "id": "shikimorisync",
     "name": "ShikimoriSync",
-    "description": "\u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u0441 Shikimori.one",
+    "description": "Автоматически синхронизировать прогресс с Shikimori.one",
     "author": "nnotwen",
     "manifestURI": "https://raw.githubusercontent.com/nnotwen/n-seanime-extensions/master/plugins/ShikimoriSync/shikimorisync.json",
     "icon": "https://shikimori.io/favicons/favicon-96x96.png",
@@ -1181,7 +1181,7 @@
   {
     "id": "capibaratraductordev",
     "name": "CapibaraTraductor",
-    "description": "El Hub de tus Scans Favoritos. Proveedor de manga en espa\u00f1ol.",
+    "description": "El Hub de tus Scans Favoritos. Proveedor de manga en español.",
     "author": "mohaisreal",
     "manifestURI": "https://raw.githubusercontent.com/mohaisreal/seanime-ext/dev/src/CapibaraTraductor/manifest.json",
     "icon": "https://capibaratraductor.com/images/faviconcaptrad.png",
@@ -1225,7 +1225,7 @@
   {
     "id": "hentai-origines",
     "name": "Hentai Origines (18+)",
-    "description": "Hentai Origines est une plateforme fran\u00e7aise de scantrad pour adultes",
+    "description": "Hentai Origines est une plateforme française de scantrad pour adultes",
     "author": "Rafou376",
     "manifestURI": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/hentai-origines/manifest.json",
     "icon": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/hentai-origines/icon.ico",
@@ -1435,7 +1435,7 @@
   {
     "id": "leermangaesp",
     "name": "MangaLect",
-    "description": "Proveedor de manga en espa\u00f1ol para MangaLect.",
+    "description": "Proveedor de manga en español para MangaLect.",
     "author": "mohaisreal",
     "manifestURI": "https://raw.githubusercontent.com/mohaisreal/seanime-ext/main/src/LeerMangaEsp/manifest.json",
     "icon": "https://raw.githubusercontent.com/mohaisreal/seanime-ext/main/src/LeerMangaEsp/icon.png",
@@ -1446,7 +1446,7 @@
   {
     "id": "mangalib",
     "name": "MangaLib",
-    "description": "MangaLib \u2014 \u044d\u0442\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0441\u043a\u0430\u043d\u043b\u0435\u0439\u0442\u0430",
+    "description": "MangaLib — это русскоязычная платформа сканлейта",
     "author": "Rafou376",
     "manifestURI": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/mangalib/manifest.json",
     "icon": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/mangalib/icon.ico",
@@ -1468,7 +1468,7 @@
   {
     "id": "mangaoni",
     "name": "MangaOni",
-    "description": "Proveedor de manga en espa\u00f1ol para MangaOni.",
+    "description": "Proveedor de manga en español para MangaOni.",
     "author": "mohaisreal",
     "manifestURI": "https://raw.githubusercontent.com/mohaisreal/seanime-ext/main/src/MangaOni/manifest.json",
     "icon": "https://raw.githubusercontent.com/mohaisreal/seanime-ext/main/src/MangaOni/favicon.ico",
@@ -1500,7 +1500,7 @@
   {
     "id": "mangas-origines",
     "name": "Mangas Origines",
-    "description": "Mangas Origines est une plateforme fran\u00e7aise de scantrad",
+    "description": "Mangas Origines est une plateforme française de scantrad",
     "author": "Rafou376",
     "manifestURI": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/mangas-origines/manifest.json",
     "icon": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/mangas-origines/icon.ico",
@@ -1675,7 +1675,7 @@
   {
     "id": "slashlib",
     "name": "SlashLib",
-    "description": "SlashLib \u2014 \u044d\u0442\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0441\u043a\u0430\u043d\u043b\u0435\u0439\u0442\u0430",
+    "description": "SlashLib — это русскоязычная платформа сканлейта",
     "author": "Rafou376",
     "manifestURI": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/slashlib/manifest.json",
     "icon": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/slashlib/icon.ico",
@@ -1752,7 +1752,7 @@
   {
     "id": "zazaza",
     "name": "ZazaZa",
-    "description": "ZazaZa \u2014 \u044d\u0442\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0441\u043a\u0430\u043d\u043b\u0435\u0439\u0442\u0430",
+    "description": "ZazaZa — это русскоязычная платформа сканлейта",
     "author": "Rafou376",
     "manifestURI": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/zazaza/manifest.json",
     "icon": "https://raw.githubusercontent.com/rafou376/seanime-pl/main/src/manga/zazaza/icon.ico",

@@ -7,7 +7,7 @@
   "type": "manga-provider",
   "description": "Manga provider for manhwa18.net (18+ manhwa).",
   "author": "rekiihype",
-  "icon": "https://manhwa18.net/icons/icon-180.png",
+  "icon": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/icon.png",
   "website": "https://manhwa18.net",
   "lang": "en",
   "payloadURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/provider.ts"
