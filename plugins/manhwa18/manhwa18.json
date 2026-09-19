@@ -1,7 +1,7 @@
 {
   "id": "manhwa18",
   "name": "Manhwa18",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifestURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/manhwa18.json",
   "language": "typescript",
   "type": "manga-provider",
