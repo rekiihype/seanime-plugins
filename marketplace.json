@@ -1,0 +1,14 @@
+[
+  {
+    "id": "scan-stats",
+    "name": "Scan Stats",
+    "description": "Toast the duration of every library scan and keep the last 20 in history.",
+    "author": "rekiihype",
+    "manifestURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/scan-stats/scan-stats.json",
+    "icon": "",
+    "type": "plugin",
+    "language": "typescript",
+    "lang": "en",
+    "website": "https://github.com/rekiihype/seanime-plugins"
+  }
+]

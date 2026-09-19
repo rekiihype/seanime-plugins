@@ -1,0 +1,23 @@
+{
+  "id": "scan-stats",
+  "name": "Scan Stats",
+  "version": "1.0.0",
+  "manifestURI": "",
+  "language": "typescript",
+  "type": "plugin",
+  "description": "Toast the duration of every library scan and keep the last 20 in history.",
+  "author": "rekiihype",
+  "icon": "",
+  "website": "",
+  "readme": "",
+  "lang": "en",
+  "payload": "",
+  "payloadURI": "/home/rekii/projects/seanime-plugins/plugins/scan-stats/code.ts",
+  "plugin": {
+    "version": "1",
+    "permissions": {
+      "scopes": ["storage"]
+    }
+  },
+  "isDevelopment": true
+}
