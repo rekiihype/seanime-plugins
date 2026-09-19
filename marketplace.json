@@ -12,6 +12,19 @@
     "website": "https://github.com/rekiihype/seanime-plugins"
   },
   {
+    "id": "manhwa18",
+    "name": "Manhwa18",
+    "author": "rekiihype",
+    "description": "Manga provider for manhwa18.net (18+ manhwa).",
+    "type": "manga-provider",
+    "language": "typescript",
+    "lang": "en",
+    "icon": "https://manhwa18.net/icons/icon-180.png",
+    "manifestURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/manhwa18.json",
+    "payloadURI": "https://raw.githubusercontent.com/rekiihype/seanime-plugins/main/plugins/manhwa18/provider.ts",
+    "website": "https://manhwa18.net"
+  },
+  {
     "id": "aiostreams-plugin",
     "name": "AIOStreams",
     "description": "Stream content from AIOStreams directly in Seanime. Supports all streams with URLs.",
